@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "746621614711",
+    "firebase_url": "https://samplepro-5de28-default-rtdb.firebaseio.com",
+    "project_id": "samplepro-5de28",
+    "storage_bucket": "samplepro-5de28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746621614711:android:8b63d6de34b3395d2da472",
+        "android_client_info": {
+          "package_name": "com.example.mars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746621614711-dcm9b9or8ppf6d77grmlehn3g23ktq39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mars",
+            "certificate_hash": "ef23471f879bd0a0e69a28d7e5f9919cda30e003"
+          }
+        },
+        {
+          "client_id": "746621614711-3d0bm5caaosp54uj2k3e80rs2v4cvfl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASAvDIvCcVFUVuFbit74yWMfvK6gEgNe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746621614711-3d0bm5caaosp54uj2k3e80rs2v4cvfl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

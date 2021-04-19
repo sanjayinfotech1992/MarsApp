@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mars</string>
+
+    <string name="facebook_app_id">4213598868672334</string>
+    <string name="fb_login_protocol_scheme">fb4213598868672334</string>
+
+</resources>
